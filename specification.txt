@@ -1,0 +1,27 @@
+### specification.txt
+
+**HTML Tags Used:**
+
+<html>
+<head>
+<title>
+<body>
+<div>
+<nav>
+<ul>
+<li>
+<button>
+<form>
+
+**CSS Properties Used:**
+
+color
+background-color
+margin
+padding
+border-radius
+
+**JavaScript and Bootstrap Usage:**
+
+JavaScript was used to add content updates (my youtube page) and interactive visual components (the bar at the top appearing based on scrolling)
+Bootstrap was used in the UI components for a modern and interactive appearance.
